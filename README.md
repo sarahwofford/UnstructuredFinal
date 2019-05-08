@@ -8,6 +8,11 @@ From here, we can push this data to ElasticSearch, which will then analyze the d
 are often purchased together.  This can help buyers, analysts, managers, and advertisers understand how to 
 better manage their proudcts when buying inventory and advertising products programmatically.
 
+First, to decompress the tar.gz file.  Run the below code in the folder you want to run the project to decompress the zipped file:
+```
+tar xvzf notebook.tar.gz
+```
+
 The below outlines the .ipynb file **'Final_Exam'**.
 
 ```
